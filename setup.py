@@ -30,7 +30,7 @@ class RunTests(Command):
 
 setup(
     name='NoseDjangoPstat',
-    version='0.0.1',
+    version='1.0.0',
     author='Jason Ward',
     author_email = 'jason.ward@policystat.com',
     description = 'A simple nose plugin for our test setup',
